@@ -11,7 +11,7 @@ img {
 
 hr {
     border-style: none;
-    border-width: 10px;
     border-top-style: dotted;
-    width: 30%;
+    border-width: 5px;
+    width: 5%;
 }
