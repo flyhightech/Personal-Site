@@ -8,3 +8,10 @@ img {
     height: 200px;
     width: 200px;
 }
+
+hr {
+    border-style: none;
+    border-width: 10px;
+    border-top-style: dotted;
+    width: 30%;
+}
